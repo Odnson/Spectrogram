@@ -337,3 +337,7 @@ The script includes basic error handling for:
 - Spectrograms are generated with logarithmic frequency scaling
 - Noise filtering helps improve visualization quality
 - Output images are optimized for machine learning applications
+
+## License
+
+This project is open source. Feel free to use and modify as needed.
